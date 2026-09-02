@@ -1,6 +1,7 @@
 # EX.NO.10 – CONTENT CREATION USING PROMPT PATTERNS
 
 **Name:** Bakkiyalakshmi E 
+
 **Register Number:** 212223220012
 
 ## AIM
